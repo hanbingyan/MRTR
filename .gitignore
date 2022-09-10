@@ -1,0 +1,8 @@
+
+logs/.DS_Store
+.DS_Store
+*.pyc
+*.xml
+*.iml
+.ipynb_checkpoints/Figs-checkpoint.ipynb
+.ipynb_checkpoints/Q_Inven-checkpoint.ipynb

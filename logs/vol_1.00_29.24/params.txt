@@ -1,0 +1,6 @@
+Params setting 
+No. of agents 2 
+Volatility 1.0 
+Inventory aversion 0.05 
+Maker rebate 0.2 
+Taker fee 0.25 
