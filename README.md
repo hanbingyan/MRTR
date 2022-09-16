@@ -1,4 +1,4 @@
-# METR
+# MRTR
  Source code for ``Can maker-taker fees prevent algorithmic cooperation in market making?``
  (ICAIF 2022)
  
